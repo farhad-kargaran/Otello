@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Otello</string>
+    <string name="black_win">Black wins</string>
+    <string name="white_win">White wins</string>
+    <string name="tied">Game tied</string>
+    <string name="nomove">no move</string>
+    <string name="black_score">Black score</string>
+    <string name="white_score">White score:</string>
+    <string name="you_loose">You loose</string>
+    <string name="timeup_black">Times up, white wins</string>
+    <string name="timeup_white">Times up, black wins</string>
+    <string name="ok">ok</string>
+
+    <string name="blackturn">Black turn</string>
+    <string name="whiteturn">White turn</string>
+</resources>

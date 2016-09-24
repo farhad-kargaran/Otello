@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CWAC-LoaderEx">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/CWAC-LoaderEx.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
