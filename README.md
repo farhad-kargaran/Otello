@@ -1,6 +1,9 @@
 # Otello
 Simple Android Otello game using convas and android studio
 
-![alt tag](http://irantourism24.ir/tmp/otello_sc1.png)
+![alt tag](http://iranoffline.com/download/Linkedin/Otello/otello.jpg)
+
+# Download Game APK:
+[otello.apk](http://iranoffline.com/download/Linkedin/Otello/otello.apk)
 
 
